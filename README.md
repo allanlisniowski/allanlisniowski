@@ -10,4 +10,4 @@ Meu nome é Allan Gabriel LIsniowski
 
 allan.lisniowski@escola.pr.gov.br
 
-![descrição do GIF](https://media.giphy.com/media/Z8KrcqxuSVESH7yCNN/giphy
+![descrição do GIF](https://media.giphy.com/media/Z8KrcqxuSVESH7yCNN/giphy.gif)
